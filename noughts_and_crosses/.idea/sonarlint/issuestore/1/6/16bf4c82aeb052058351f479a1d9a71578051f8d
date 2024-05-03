@@ -1,5 +1,14 @@
 
-z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ã¢·Ÿó1
-^	java:S125"<This block of commented-out lines of code should be removed.(üÆØıÿÿÿÿ8Ë±·Ÿó1
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8•®ºëó1
+M
+java:S1066Ä"/Merge this if statement with the enclosing one.(ùßáª8—®ºëó1
+t
+java:S3776r"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Îˆœ¶øÿÿÿÿ8à³Àëó1
+B
+java:S1659–"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ8å³Àëó1
+^	java:S125½"<This block of commented-out lines of code should be removed.(üÆØıÿÿÿÿ8ò´ºëó1
 d
-java:S1126»"AReplace this if-then-else statement by a single return statement.(ˆÚıìûÿÿÿÿ8Ô±·Ÿó1
+java:S1126ë"AReplace this if-then-else statement by a single return statement.(ˆÚıìûÿÿÿÿ8÷´ºëó1
+X	java:S125÷"<This block of commented-out lines of code should be removed.(ŒÈì	8ù´ºëó1
+p
+java:S1871›"MThis branch's code block is the same as the block for the branch on line 282.(«ûã•úÿÿÿÿ8ü´ºëó1
